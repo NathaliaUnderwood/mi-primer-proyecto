@@ -1,0 +1,21 @@
+C:\Users\Griselda\Documents\clases\Tercer_anio_S2\Programacion_Visual\Proyectos\Vizio_Imagine\Vizio_Imagine\bin\Debug\Vizio_Imagine.exe.config
+C:\Users\Jose Chevez\Documents\Clases\Tercer_anio_S2\Programacion_Visual\Proyectos\Vizio_Imagine\Vizio_Imagine\bin\Debug\Vizio_Imagine.exe.config
+C:\Users\Jose Chevez\Documents\Clases\Tercer_anio_S2\Programacion_Visual\Proyectos\Vizio_Imagine\Vizio_Imagine\bin\Debug\Vizio_Imagine.exe
+C:\Users\Jose Chevez\Documents\Clases\Tercer_anio_S2\Programacion_Visual\Proyectos\Vizio_Imagine\Vizio_Imagine\bin\Debug\Vizio_Imagine.pdb
+C:\Users\Jose Chevez\Documents\Clases\Tercer_anio_S2\Programacion_Visual\Proyectos\Vizio_Imagine\Vizio_Imagine\obj\Debug\Vizio_Imagine.csprojResolveAssemblyReference.cache
+C:\Users\Jose Chevez\Documents\Clases\Tercer_anio_S2\Programacion_Visual\Proyectos\Vizio_Imagine\Vizio_Imagine\obj\Debug\Vizio_Imagine.Vizio_Imagine.resources
+C:\Users\Jose Chevez\Documents\Clases\Tercer_anio_S2\Programacion_Visual\Proyectos\Vizio_Imagine\Vizio_Imagine\obj\Debug\Vizio_Imagine.Properties.Resources.resources
+C:\Users\Jose Chevez\Documents\Clases\Tercer_anio_S2\Programacion_Visual\Proyectos\Vizio_Imagine\Vizio_Imagine\obj\Debug\Vizio_Imagine.csproj.GenerateResource.Cache
+C:\Users\Jose Chevez\Documents\Clases\Tercer_anio_S2\Programacion_Visual\Proyectos\Vizio_Imagine\Vizio_Imagine\obj\Debug\Vizio_Imagine.exe
+C:\Users\Jose Chevez\Documents\Clases\Tercer_anio_S2\Programacion_Visual\Proyectos\Vizio_Imagine\Vizio_Imagine\obj\Debug\Vizio_Imagine.pdb
+C:\Users\Toshiba\Documents\Vizio_Imagine\Vizio_Imagine\bin\Debug\Vizio_Imagine.exe.config
+C:\Users\Toshiba\Documents\Vizio_Imagine\Vizio_Imagine\bin\Debug\Vizio_Imagine.exe
+C:\Users\Toshiba\Documents\Vizio_Imagine\Vizio_Imagine\bin\Debug\Vizio_Imagine.pdb
+C:\Users\Toshiba\Documents\Vizio_Imagine\Vizio_Imagine\obj\Debug\Vizio_Imagine.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Documents\Vizio_Imagine\Vizio_Imagine\obj\Debug\Vizio_Imagine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Toshiba\Documents\Vizio_Imagine\Vizio_Imagine\obj\Debug\Vizio_Imagine.Vizio_Imagine.resources
+C:\Users\Toshiba\Documents\Vizio_Imagine\Vizio_Imagine\obj\Debug\Vizio_Imagine.Properties.Resources.resources
+C:\Users\Toshiba\Documents\Vizio_Imagine\Vizio_Imagine\obj\Debug\Vizio_Imagine.csproj.GenerateResource.cache
+C:\Users\Toshiba\Documents\Vizio_Imagine\Vizio_Imagine\obj\Debug\Vizio_Imagine.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Documents\Vizio_Imagine\Vizio_Imagine\obj\Debug\Vizio_Imagine.exe
+C:\Users\Toshiba\Documents\Vizio_Imagine\Vizio_Imagine\obj\Debug\Vizio_Imagine.pdb
